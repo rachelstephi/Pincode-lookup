@@ -68,7 +68,7 @@ body {
 
 .pincode-input::placeholder {
   letter-spacing: normal;
-  color: #9ca3af;
+  color: #8a919d;
 }
 
 .lookup-btn {
@@ -120,7 +120,7 @@ body {
 }
 
 .loader-wrapper p {
-  color: #6b7280;
+  color: #34363b;
   font-size: 0.95rem;
 }
 
@@ -157,7 +157,7 @@ body {
 }
 
 .filter-input::placeholder {
-  color: #9ca3af;
+  color: #484b52;
 }
 
 .no-results {
@@ -169,7 +169,7 @@ body {
 }
 
 .no-results p {
-  color: #6b7280;
+  color: #464b54;
   font-size: 0.95rem;
 }
 
@@ -223,7 +223,7 @@ body {
 
 .label {
   font-size: 0.85rem;
-  color: #9ca3af;
+  color: #3b4048;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.5px;
